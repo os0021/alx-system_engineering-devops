@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_first_directory/tmp/
+root@f4c813957d44:/tmp# mkdir my_first_directory
